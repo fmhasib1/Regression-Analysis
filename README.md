@@ -23,3 +23,12 @@ given risk, no other portfolio offers a higher expected return:
 
 ![image](https://user-images.githubusercontent.com/113402328/210157143-f7224118-fc4a-4036-a725-4ac71f523c89.png)
 
+Any point beneath the efficient frontier is inferior to points above. Moreover, any points along the efficient frontier
+are, by definition, superior to all other points for that combined risk-return tradeoff.
+
+The Requirements:
+Step 1: Choose seven (7) assets (preferably something with significant historical data)
+Step 2: Retrieve daily open/close data on your assets for the previous 2 years
+Step 3: Calculate the mean, variance, and correlation matrix for all assets
+Step 4: Calculate efficient frontier and optimal weights for your portfolio (Don’t forget the output!)
+Step 5: Use MatPlotLib or Seaborn libraries to graph the results (matrix and frontier)
